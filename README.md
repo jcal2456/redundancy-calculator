@@ -20,14 +20,14 @@ During the project GitHub Projects will be used to manage the project and work d
 At the start of the project, requirements of the app were gathered. These requirements were split into functional and non-functional requirements. The requirements were captured and then tickets were created based on them.
 
 The functional requirements of the app included:
-	* Having an input field for "Full Years of Service"
-	* Having an input field for "Salary"
-	* Having a title at the top called “Redundancy Calculator”
-	* Having a button that when clicked automatically calculates the voluntary redundancy payout using the two inputs
-	* Having a JavaScript function to calculate redundancy pay - formula should be (fullYearsOfService / 2) * (salary / 5)
-	* Having a no redundancy entitlement message displaying if the "Full Years of Service" input is less than 2
-	* Having the redundancy pay capped at £90,000
-	* Having the input fields only allowing numbers to be inputted
+* Having an input field for "Full Years of Service"
+* Having an input field for "Salary"
+* Having a title at the top called “Redundancy Calculator”
+* Having a button that when clicked automatically calculates the voluntary redundancy payout using the two inputs
+* Having a JavaScript function to calculate redundancy pay - formula should be (fullYearsOfService / 2) * (salary / 5)
+* Having a no redundancy entitlement message displaying if the "Full Years of Service" input is less than 2
+* Having the redundancy pay capped at £90,000
+* Having the input fields only allowing numbers to be inputted
 
 The non-functional requirements of the app included:
  * Having an app that is visually appealing and user-friendly 
