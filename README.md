@@ -20,3 +20,20 @@ During the project GitHub Projects will be used to manage the project and work d
 At the start of the project, requirements of the app were gathered. These requirements were split into functional and non-functional requirements. The requirements were captured and then tickets were created based on them.
 
 The functional requirements of the app included:
+<ul>	Having an input field for "Full Years of Service"</ul>
+<ul>	Having an input field for "Salary"</ul>
+<ul>	Having a title at the top called “Redundancy Calculator”</ul>
+<ul>	Having a button that when clicked automatically calculates the voluntary redundancy payout using the two inputs</ul>
+<ul>	Having a JavaScript function to calculate redundancy pay - formula should be (fullYearsOfService / 2) * (salary / 5)</ul>
+<ul>	Having a no redundancy entitlement message displaying if the "Full Years of Service" input is less than 2</ul>
+<ul>	Having the redundancy pay capped at £90,000</ul>
+<ul>	Having the input fields only allowing numbers to be inputted</ul>
+
+The non-functional requirements of the app included:
+<ul> Having an app that is visually appealing and user-friendly </ul>
+<ul> The calculator should return a calculation or answer within 1 second of clicking the "Calculate" button </ul>
+<ul> Meeting XXX’s accessibility guidelines</ul>
+<ul> Having the ability to add more features in the future</ul>
+
+As mentioned previously, tickets of work were created based on the requirements. The tickets follow a structure of a title, followed by a description, followed by acceptance criteria. Below is an example of one of the tickets in the GitHub Project’s Kanban board.
+
