@@ -1,2 +1,6 @@
-# redundancy-calculator
-An app that calculates redundancy payouts
+# Redundancy Calculator README
+## Project Overview
+XXX, referred to as XXX for confidentiality purposes, is one of the leading media companies in the UK. However, due to automation being implemented more and more within XXX,  many employee roles are no longer needed. Therefore, in order to help downsize the workforce, XXX has started offering voluntary redundancy. This initiative helps XXX to effectively restructure the organisation, while providing a financial incentive for employees who are considering leaving XXX.
+To help XXX increase the awareness of voluntary redundancy among employees, I have been given the task of building an app that calculates an employee’s redundancy payout if they do agree to voluntary redundancy. This app will help employees understand their redundancy pay based on company rules as well as legal rules. The app will also help the HR department of XXX as it will reduce the amount of enquiries they get about voluntary redundancy, thus improving the department’s efficiency. 
+The technology stack used in this project will include CSS for styling, HTML for structure, JavaScript for functionality, GitHub for version control and project management, Figma for design, and more.
+
