@@ -33,7 +33,13 @@ The non-functional requirements of the app included:
  * Having an app that is visually appealing and user-friendly 
  * The calculator should return a calculation or answer within 1 second of clicking the "Calculate" button 
  * Meeting XXX’s accessibility guidelines
- * Having the ability to add more features in the future
 
 As mentioned previously, tickets of work were created based on the requirements. The tickets follow a structure of a title, followed by a description, followed by acceptance criteria. Below is an example of one of the tickets in the GitHub Project’s Kanban board.
 
+![Ticket Example](![Ticket Example](https://github.com/user-attachments/assets/d856dbad-b912-4def-840a-2ba736905bd9)
+)
+
+Below is a screenshot of my Kanban board, which shows how the tickets are organised.
+
+![Kanban Board](![Project Board Picture](https://github.com/user-attachments/assets/0db4b9d6-6d79-4ee2-98f5-0f3ad6f3fbdf)
+)
