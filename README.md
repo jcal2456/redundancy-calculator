@@ -36,18 +36,17 @@ The non-functional requirements of the app included:
 
 As mentioned previously, tickets of work were created based on the requirements. The tickets follow a structure of a title, followed by a description, followed by acceptance criteria. Below is an example of one of the tickets in the GitHub Project’s Kanban board.
 
-[Ticket Example](https://github.com/user-attachments/assets/d856dbad-b912-4def-840a-2ba736905bd9)
+![Ticket Example](https://github.com/user-attachments/assets/d856dbad-b912-4def-840a-2ba736905bd9)
 
 Below is a screenshot of my Kanban board, which shows how the tickets are organised.
 
-[Project Board Picture](https://github.com/user-attachments/assets/0db4b9d6-6d79-4ee2-98f5-0f3ad6f3fbdf)
+![Project Board Picture](https://github.com/user-attachments/assets/0db4b9d6-6d79-4ee2-98f5-0f3ad6f3fbdf)
 
 ##Design
 
-From the requirements, the designs of the app were made. These were done in Figma. Below is a screenshot of the designs as well as a pdf file containing the designs.
+From the requirements, the designs of the app were made. These were done in Figma. Below is a screenshot of the designs.
 
-[Screenshot of designs](https://github.com/user-attachments/assets/3afb3b7d-f528-4524-b347-4704fa363f41)
+![Screenshot of designs](https://github.com/user-attachments/assets/3afb3b7d-f528-4524-b347-4704fa363f41)
 
-[View PDF](https://github.com/jcal2456/redundancy-calculator/blob/main/Redundancy%20Calculator%20Design.pdf)
 
 The design on the left shows the app design without a user putting anything. At the top is a title and below that is two input fields, along with their labels, where a user would input their full years of service and salary. The inputs are designed so only numbers can be entered. Below that is the button, which calculates the payout, and this is in a blue, rectangular shape with rounded edges. Below that is the text of, “Estimated Redundancy Payment:”, where the result of the calculation, done when clicking the button, will be next to. The design to the right is almost identical however, it shows what the design would look like if an employee inputted their data. 
