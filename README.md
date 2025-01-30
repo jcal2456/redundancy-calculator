@@ -14,7 +14,7 @@ Sprint 1 will focus on setting up the basic HTML structure and CSS styling as we
 Each sprint will include sprint planning at the start of a sprint, where the work during the sprint will be decided, a sprint review, where work is reviewed and tested, and a sprint retrospective, where a reflection on what went well and what can be improved is conducted.
 
 ## Project management tools
-During the project GitHub Projects will be used to manage the project and work done. This is because GitHub Projects enables users to manage tasks via a Kanban board, containing columns, where tasks are set as tickets, and those tickets are arranged in the columns. This project’s Kanban board will have 3 columns which are, to-do, in progress, and done. 
+During the project GitHub Projects will be used to manage the project and work done. This is because GitHub Projects enables users to manage tasks via a Kanban board, containing columns, where tasks are set as tickets. This project’s Kanban board will have 3 columns which are, to-do, in progress, and done. 
 
 ## Requirements
 At the start of the project, requirements of the app were gathered. These requirements were split into functional and non-functional requirements. The requirements were captured and then tickets were created based on them.
