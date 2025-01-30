@@ -46,7 +46,7 @@ Below is a screenshot of my Kanban board, which shows how the tickets are organi
 
 From the requirements, the designs of the app were made. These were done in Figma. Below is a screenshot of the designs.
 
-![Screenshot of designs](https://github.com/user-attachments/assets/3afb3b7d-f528-4524-b347-4704fa363f41)
+![Screenshot of designs](https://github.com/user-attachments/assets/37841e5f-cd59-453c-bf56-5192da76f2b5)
 
 
 The design on the left shows the app design without a user putting anything. At the top is a title and below that is two input fields, along with their labels, where a user would input their full years of service and salary. The inputs are designed so only numbers can be entered. Below that is the button, which calculates the payout, and this is in a blue, rectangular shape with rounded edges. Below that is the text of, “Estimated Redundancy Payment:”, where the result of the calculation, done when clicking the button, will be next to. The design to the right is almost identical however, it shows what the design would look like if an employee inputted their data. 
