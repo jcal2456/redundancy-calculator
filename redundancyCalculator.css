@@ -26,3 +26,13 @@ input[type="number"] {
     margin: 6px 0;
     box-sizing: border-box;
 }
+
+/* button styling */ 
+button {
+    background-color: #1723d6;
+    color: white;
+    padding: 10px 25px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
