@@ -1,3 +1,28 @@
+/* font styling */
 body {
     font-family: 'Courier New';
+}
+
+/* table styling */
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 11px;
+    text-align: left;
+}
+
+/* background colour */
+th {
+    background-color: #f2f2f267;
+}
+
+/* input fields */ 
+input[type="number"] {
+    width: 80%;
+    padding: 11px;
+    margin: 6px 0;
+    box-sizing: border-box;
 }
