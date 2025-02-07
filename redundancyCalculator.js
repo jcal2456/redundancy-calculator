@@ -17,7 +17,7 @@ function calculateRedundancy() {
         if(redundancyFormula > 90000) {
             redundancyFormula = 90000;
         }
-         redundancyFormula = " £ " + redundancyFormula.toFixed(2);
+         redundancyFormula = "£" + redundancyFormula.toFixed(2);
     }
     // Display result
     document.getElementById("result").innerHTML = redundancyFormula;
