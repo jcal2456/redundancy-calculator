@@ -16,8 +16,8 @@ function calculateRedundancy() {
         redundancyFormula = (fullYearsOfService / 2) * (salary / 5);
         if(redundancyFormula > 90000) {
             redundancyFormula = 90000;
-        document.getElementById("result").innerHTML = " £ " + redundancyFormula.toFixed(2);
         }
+         redundancyFormula = " £ " + redundancyFormula.toFixed(2);
     }
     // Display result
     document.getElementById("result").innerHTML = redundancyFormula;
